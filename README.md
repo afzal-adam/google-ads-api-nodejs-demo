@@ -219,7 +219,7 @@ Content-Type: application/json
 
 ### 6. Resources / References
 
-1. Google Ads Query Builder(Can be used to Generate the GAQ )
+1. Google Ads [Query Builder](https://developers.google.com/google-ads/api/fields/v16/overview_query_builder). (Can be used to Generate the GAQ )
 2. Google ads api [Node Package](https://www.npmjs.com/package/google-ads-api).
 
 ## Disclaimer
